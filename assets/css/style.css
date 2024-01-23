@@ -1037,9 +1037,9 @@ main {
 .blog-posts { margin-bottom: 10px; }
 
 .blog-posts-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 20px;
+/*   display: grid; */
+/*   grid-template-columns: 1fr; */
+/*   gap: 20px; */
 }
 
 .blog-post-item > a {
